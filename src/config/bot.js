@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "Air France", // required by Discord API, not shown in the client
         state: "Watching Air France PTFS",     // this is what people actually see
-        type: 4,               // Custom
+        type: 3,               // Custom
       },
     ],
   },
